@@ -6,14 +6,6 @@ This MATLAB code solves the cart-pole swing-up problem using direct collocation 
 
 <img src="cartpole_traj.png" alt="Astar-map1" width="500">
 
-
-## Requirements
-- MATLAB with Optimization Toolbox
-
-## Quick Start
-1. Run the main script
-2. The program will display position, angle, and control plots along with an animation
-
 ## Key Parameters
 ```matlab
 % System parameters
