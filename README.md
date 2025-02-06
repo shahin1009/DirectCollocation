@@ -2,6 +2,8 @@
 
 This MATLAB code solves the cart-pole swing-up problem using direct collocation optimization. It finds an optimal trajectory to move an inverted pendulum from its downward position to upright while minimizing control effort and state error.
 
+<img src="cartpole_animation.gif" alt="Astar-map1" width="500">
+
 ## Requirements
 - MATLAB with Optimization Toolbox
 
